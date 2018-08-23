@@ -13,7 +13,6 @@ Resources worth to follow to stay current with the Azure platform
 * [Preview features](https://azure.microsoft.com/en-us/services/preview/) - Preview features for evaluation purposes
 * [Azure Info Hub](https://azureinfohub.azurewebsites.net/) - Another great compilation of resources around Azure
 * [aka.ms Azure Shortcuts](https://aka.ms/Azure/Shortcuts) - Compilation of aka.ms shorts pointing to Azure resources
-* [Interactive Azure Platform Overview](http://azureplatform.azurewebsites.net/en-us/) - Interactive Azure Platform Big Picture
 
 ## Architectural Guidance
 * [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications](https://msdn.microsoft.com/library/dn568099.aspx) - via the Patterns and Practices team
